@@ -7,7 +7,3 @@ Visualized distributions, correlations, and group comparisons across gender
 Engineered two new features (Age Group and Spending-to-Income Ratio) to help a future model
 Summarized the main patterns found in the data
 
-Files
-
-Mall_Customers_EDA.ipynb — the notebook
-Mall_Customers.csv — the dataset
