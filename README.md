@@ -11,5 +11,5 @@ Data cleaning and exploratory analysis on the Mall Customers dataset from Kaggle
 
 ## Files
 
-- `Mall_Customers_EDA.ipynb` — the notebook
-- `Mall_Customers.csv` — the dataset
+- `Mall_Customers_EDA.ipynb` - the notebook
+- `Mall_Customers.csv` - the dataset
